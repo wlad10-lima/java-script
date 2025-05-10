@@ -13,8 +13,3 @@ const result = Math.SQRT(25,3)
 
 
 console.log(result)
-
-
-
-
-

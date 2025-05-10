@@ -17,6 +17,8 @@ function convertValues(){
             style:"currency",
             currency:"USD",
 
+
+
         
     
         }).format(inputCurrencyValue/dolarToday)
